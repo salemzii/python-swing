@@ -9,7 +9,7 @@ setup(
     author="logzio",
     maintainer="salem ododa",
     mail="salem@brainstorm.ng",
-    url="https://github.com/salemzii/swing-python-handler",
+    url="https://github.com/salemzii/python-swing",
     license="Apache License 2", 
     packages=find_packages(),
     install_requires=[

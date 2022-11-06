@@ -1,0 +1,2 @@
+class SwinigException(Exception):
+    pass
